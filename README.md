@@ -1,5 +1,4 @@
-# ASSIGNMENT 3 
-# INFO LAB
+# Hospital Management System
 
 ## **CONTEXT** 
 This application is a platform for people to find medical resource in different city and community. 
