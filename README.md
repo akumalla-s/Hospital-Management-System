@@ -12,8 +12,6 @@ Encounter represent a visit to the doctor’s office. The vital signs timeline i
     *  System admin should have all access(CRUD) to all resources in this application 
 *  You’re free to have extension design based on the given model, but you’re not allowed to delete any element in the model. 
 *  Your application is required to manage user data(CRUD). 
-*  UI&UX will be considered as a part of grade. 
-*  Data validation(Non-null check, basic data type check) 
 *  Design different roles of users in this application:(System administrator, patient, hospital administrator, community administrator, etc) 
 
 ## **DESCRIPTION**
